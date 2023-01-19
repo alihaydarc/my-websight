@@ -56,7 +56,12 @@
 }
 
 /* section ar kag */
-.section-topper {}
+.section-img {
+    width: auto;
+    height: 723.3px;
+    padding-left: 350px;
+    margin-top: 80px;
+}
 
 .titel-to {
     width: 350px;
