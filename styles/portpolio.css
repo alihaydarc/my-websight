@@ -113,13 +113,13 @@
 
 .skill-container {
     display: flex;
-    gap: 20px;
+    gap: 10px;
 }
 
 .skill {
     margin: 105px;
     text-align: center;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
 
 .skill-title {
